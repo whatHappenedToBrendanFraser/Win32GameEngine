@@ -1,0 +1,245 @@
+Render Engine: 
+	change found at: 3 3 from 176 to 177 
+	change found at: 4 3 from 176 to 177 
+	change found at: 5 3 from 176 to 177 
+	change found at: 6 3 from 176 to 177 
+	change found at: 7 3 from 176 to 177 
+	change found at: 8 3 from 176 to 177 
+	change found at: 9 3 from 176 to 177 
+	change found at: 10 3 from 176 to 177 
+	change found at: 11 3 from 176 to 177 
+	change found at: 12 3 from 176 to 177 
+	change found at: 13 3 from 176 to 177 
+	change found at: 14 3 from 176 to 177 
+	change found at: 3 4 from 176 to 177 
+	change found at: 4 4 from 176 to 177 
+	change found at: 5 4 from 176 to 177 
+	change found at: 6 4 from 176 to 177 
+	change found at: 7 4 from 176 to 177 
+	change found at: 8 4 from 176 to 177 
+	change found at: 9 4 from 176 to 177 
+	change found at: 10 4 from 176 to 177 
+	change found at: 11 4 from 176 to 177 
+	change found at: 12 4 from 176 to 177 
+	change found at: 13 4 from 176 to 177 
+	change found at: 14 4 from 176 to 177 
+	change found at: 3 5 from 176 to 177 
+	change found at: 4 5 from 176 to 177 
+	change found at: 5 5 from 176 to 177 
+	change found at: 6 5 from 176 to 177 
+	change found at: 7 5 from 176 to 177 
+	change found at: 8 5 from 176 to 177 
+	change found at: 9 5 from 176 to 177 
+	change found at: 10 5 from 176 to 177 
+	change found at: 11 5 from 176 to 177 
+	change found at: 12 5 from 176 to 177 
+	change found at: 13 5 from 176 to 177 
+	change found at: 14 5 from 176 to 177 
+	change found at: 3 6 from 176 to 177 
+	change found at: 4 6 from 176 to 177 
+	change found at: 5 6 from 176 to 177 
+	change found at: 6 6 from 176 to 177 
+	change found at: 7 6 from 176 to 177 
+	change found at: 8 6 from 176 to 177 
+	change found at: 9 6 from 176 to 177 
+	change found at: 10 6 from 176 to 177 
+	change found at: 11 6 from 176 to 177 
+	change found at: 12 6 from 176 to 177 
+	change found at: 13 6 from 176 to 177 
+	change found at: 14 6 from 176 to 177 
+	change found at: 3 7 from 176 to 177 
+	change found at: 4 7 from 176 to 177 
+	change found at: 5 7 from 176 to 177 
+	change found at: 6 7 from 176 to 177 
+	change found at: 7 7 from 176 to 177 
+	change found at: 8 7 from 176 to 177 
+	change found at: 9 7 from 176 to 177 
+	change found at: 10 7 from 176 to 177 
+	change found at: 11 7 from 176 to 177 
+	change found at: 12 7 from 176 to 177 
+	change found at: 13 7 from 176 to 177 
+	change found at: 14 7 from 176 to 177 
+	change found at: 3 8 from 176 to 177 
+	change found at: 4 8 from 176 to 177 
+	change found at: 5 8 from 176 to 177 
+	change found at: 6 8 from 176 to 177 
+	change found at: 7 8 from 176 to 177 
+	change found at: 8 8 from 176 to 177 
+	change found at: 9 8 from 176 to 177 
+	change found at: 10 8 from 176 to 177 
+	change found at: 11 8 from 176 to 177 
+	change found at: 12 8 from 176 to 177 
+	change found at: 13 8 from 176 to 177 
+	change found at: 14 8 from 176 to 177 
+	change found at: 0 19 from 176 to 102 
+	change found at: 1 19 from 176 to 97 
+	change found at: 2 19 from 176 to 108 
+	change found at: 3 19 from 176 to 115 
+	change found at: 4 19 from 176 to 101 
+	change found at: 0 22 from 176 to 72 
+	change found at: 1 22 from 176 to 101 
+	change found at: 2 22 from 176 to 108 
+	change found at: 3 22 from 176 to 108 
+	change found at: 4 22 from 176 to 111 
+	change found at: 5 22 from 176 to 44 
+	change found at: 6 22 from 176 to 32 
+	change found at: 7 22 from 176 to 116 
+	change found at: 8 22 from 176 to 104 
+	change found at: 9 22 from 176 to 105 
+	change found at: 10 22 from 176 to 115 
+	change found at: 11 22 from 176 to 32 
+	change found at: 12 22 from 176 to 105 
+	change found at: 13 22 from 176 to 115 
+	change found at: 14 22 from 176 to 32 
+	change found at: 15 22 from 176 to 116 
+	change found at: 16 22 from 176 to 101 
+	change found at: 17 22 from 176 to 115 
+	change found at: 18 22 from 176 to 116 
+	change found at: 19 22 from 176 to 32 
+	change found at: 20 22 from 176 to 116 
+	change found at: 21 22 from 176 to 101 
+	change found at: 22 22 from 176 to 120 
+	change found at: 23 22 from 176 to 116 
+	change found at: 24 22 from 176 to 46 
+	change 2 2 
+	change 3 2 
+	change 4 2 
+	change 5 2 
+	change 6 2 
+	change 7 2 
+	change 8 2 
+	change 9 2 
+	change 10 2 
+	change 11 2 
+	change 12 2 
+	change 13 2 
+	change 14 2 
+	change 15 2 
+	change 2 3 
+	change 3 3 
+	change 4 3 
+	change 5 3 
+	change 6 3 
+	change 7 3 
+	change 8 3 
+	change 9 3 
+	change 10 3 
+	change 11 3 
+	change 12 3 
+	change 13 3 
+	change 14 3 
+	change 15 3 
+	change 2 4 
+	change 3 4 
+	change 4 4 
+	change 5 4 
+	change 6 4 
+	change 7 4 
+	change 8 4 
+	change 9 4 
+	change 10 4 
+	change 11 4 
+	change 12 4 
+	change 13 4 
+	change 14 4 
+	change 15 4 
+	change 2 5 
+	change 3 5 
+	change 4 5 
+	change 5 5 
+	change 6 5 
+	change 7 5 
+	change 8 5 
+	change 9 5 
+	change 10 5 
+	change 11 5 
+	change 12 5 
+	change 13 5 
+	change 14 5 
+	change 15 5 
+	change 2 6 
+	change 3 6 
+	change 4 6 
+	change 5 6 
+	change 6 6 
+	change 7 6 
+	change 8 6 
+	change 9 6 
+	change 10 6 
+	change 11 6 
+	change 12 6 
+	change 13 6 
+	change 14 6 
+	change 15 6 
+	change 2 7 
+	change 3 7 
+	change 4 7 
+	change 5 7 
+	change 6 7 
+	change 7 7 
+	change 8 7 
+	change 9 7 
+	change 10 7 
+	change 11 7 
+	change 12 7 
+	change 13 7 
+	change 14 7 
+	change 15 7 
+	change 2 8 
+	change 3 8 
+	change 4 8 
+	change 5 8 
+	change 6 8 
+	change 7 8 
+	change 8 8 
+	change 9 8 
+	change 10 8 
+	change 11 8 
+	change 12 8 
+	change 13 8 
+	change 14 8 
+	change 15 8 
+	change 2 9 
+	change 3 9 
+	change 4 9 
+	change 5 9 
+	change 6 9 
+	change 7 9 
+	change 8 9 
+	change 9 9 
+	change 10 9 
+	change 11 9 
+	change 12 9 
+	change 13 9 
+	change 14 9 
+	change 15 9 
+	change 0 19 
+	change 1 19 
+	change 2 19 
+	change 3 19 
+	change 4 19 
+	change 0 22 
+	change 1 22 
+	change 2 22 
+	change 3 22 
+	change 4 22 
+	change 5 22 
+	change 6 22 
+	change 7 22 
+	change 8 22 
+	change 9 22 
+	change 10 22 
+	change 11 22 
+	change 12 22 
+	change 13 22 
+	change 14 22 
+	change 15 22 
+	change 16 22 
+	change 17 22 
+	change 18 22 
+	change 19 22 
+	change 20 22 
+	change 21 22 
+	change 22 22 
+	change 23 22 
+	change 24 22 
